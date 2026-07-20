@@ -1,4 +1,4 @@
-# License
+License
 
 Except where otherwise noted, all text, documentation, and images in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
@@ -13,9 +13,9 @@ Under the following terms:
 
 To view a copy of this license, visit: https://creativecommons.org
 
----
+-------------------------------------------------------------------------------
 
-# Code Snippets Exception
+Code Snippets Exception
 
 Notwithstanding the CC BY-NC-SA 4.0 license applied to the documentation, all source code, scripts (including but not limited to Bash, PowerShell, Batch, HTML, and CSS), and configuration files contained in these notes are additionally licensed under a modified MIT License.
 
